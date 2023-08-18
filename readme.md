@@ -12,7 +12,4 @@
 ```BASH
 mkdir my_project && cd my_project && git init
 ```
-```JS
-alert ('Hello, world!');
-```
 Это лишь некоторые функции markdown.
