@@ -10,8 +10,6 @@
 ## Выделение кода
 Чтобы выделить текст как код, поместите его в тройные грависы ``````.
 ```BASH
-mkdir my_project
-cd my_project
-git init
+mkdir my_project && cd my_project && git init
 ```
 Это лишь некоторые функции markdown.
