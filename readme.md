@@ -10,8 +10,7 @@
 ## Выделение кода
 Чтобы выделить текст как код, поместите его в тройные грависы ``````.
 ``` bash
-mkdir
-my_project
+mkdir my_project
 cd my_project
 git init
 ```
